@@ -9,9 +9,13 @@ With this project, you do not have to manually check and water the plants anymor
 
 ⚙️ Components Needed
 Arduino Uno Board
+
 Soil Moisture Sensor
+
 Relay Module
+
 Water Pump
+
 Jumper Wires
 
 🔄 Operation of Project
